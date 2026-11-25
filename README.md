@@ -15,3 +15,7 @@ This will be my merged pull request as well.
 	3. It will help people learn more about geography and can be used in educational settings like in classrooms.
 	4. It will take this long because there may be details and features that will come up over time that we may not have thought of during the first day, and the more testing will help build more ideas for this project.
 	5. We will demonstrate our program by playing several of the minigames in class and completing them. We will also explain how it works while playing it.
+
+## Credits
+Maps were sourced from the Wikimedia Commons under the Creative Commons CC0 1.0 license
+Made with Natural Earth. Free vector and raster map data @ naturalearthdata.com.
